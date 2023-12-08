@@ -34,6 +34,8 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
                       : "$number1$operand$number2",
                   style: const TextStyle(
                       fontSize: 48, fontWeight: FontWeight.bold),
+
+                  //cals
                 ),
               ),
             ),
